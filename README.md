@@ -1,5 +1,13 @@
-### Hi there 👋
-<h3 align="center">A passionate frontend developer from India</h3>
+### Hi there 👋 I'm Yuusuf Adebayo
+- 🔭 I’m currently working on Restaurant web app
+- 🌱 I’m currently learning ReactJS
+- 👯 I’m looking to collaborate on Front-end projects
+- 🤔 I’m looking for help with internships 
+- 💬 Ask me about Web Development 
+- 📫 How to reach me:
+- 😄 Pronouns: He|him👦🏾
+- ⚡ Fun fact: I play football on the side⚽
+<h3 align="center">A passionate frontend developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuusuf396&label=Profile%20views&color=0e75b6&style=flat" alt="yuusuf396" /> </p>
 
