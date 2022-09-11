@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on Front-end projects
 - 🤔 I’m looking for help with internships 
 - 💬 Ask me about Web Development 
-- 📫 How to reach me: Email :adebayotoon@gmail.com|<a href="https://linkedin.com/in/yuusuf-adebayo-222680229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuusuf-adebayo-222680229" height="15" width="15" /></a>
+- 📫 How to reach me: Email :adebayotoon@gmail.com|<a href="https://linkedin.com/in/yuusuf-adebayo-222680229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuusuf-adebayo-222680229" height="11" width="15" /></a>|<a href="https://twitter.com/_ayours" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ayours" height="11" width="15" /></a>
 - 😄 Pronouns: He|him👦🏾
 - ⚡ Fun fact: I play football on the side⚽
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
