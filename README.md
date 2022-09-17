@@ -26,11 +26,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/adebayoyuusuf"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adebayoyuusuf" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuusuf396&show_icons=true&locale=en&layout=compact" alt="yuusuf396" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuusuf396&" alt="yuusuf396" /></p>
-<!--
+ ![Yuusuf396's Stats](https://github-readme-stats.vercel.app/api?username=Yuusuf396&theme=monokai&show_icons=true&hide_border=false&count_private=true)
 **Yuusuf396/Yuusuf396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
