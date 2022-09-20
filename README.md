@@ -26,10 +26,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/adebayoyuusuf"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adebayoyuusuf" /></a></p><br><br> 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yuusuf396&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yuusuf396&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuusuf396&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+ 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Yuusuf396&theme=radical&no-frame=false&no-bg=true&margin-w=4)
