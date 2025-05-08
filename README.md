@@ -1,4 +1,4 @@
 ### Hi there 👋 I'm Yuusuf Adebayo
  
-- 👯 I’m looking to collaborate on meaningful projects
+- 👯 I’m looking to collaborate on  projects
   
